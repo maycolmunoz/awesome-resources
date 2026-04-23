@@ -46,6 +46,7 @@
 - [Animagraffs](https://animagraffs.com/) – Animated infographics.
 - [Shigureni](https://shigureni.com/) – Illustrative arts collection.
 - [City Roads](https://anvaka.github.io/city-roads/) – Geographical data visualization.
+- [Wallpapers Clan](https://wallpapers-clan.com/) – Digital image repository.
 
 
 ## Productivity
