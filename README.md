@@ -115,3 +115,4 @@
 - [Minecraftle](https://minecraftle.zachmanson.com/) – Themed deduction game.
 - [YouDJ](https://youdj.online/?web) – Sound manipulation application.
 - [HaxBall](https://www.haxball.com/play) – Multiplayer physics-based game.
+- [TasteAtlas](https://www.tasteatlas.com/) – Culinary geographical encyclopedia.
