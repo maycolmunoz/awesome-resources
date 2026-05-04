@@ -85,6 +85,7 @@
 - [tv.garden](https://tv.garden/co/DhFWPxFh4aKhyC) – Global TV.
 - [MapChart](https://www.mapchart.net/) – Geographic customization system.
 - [MyFridgeFood](https://www.myfridgefood.com/) – Culinary ingredient knowledge base.
+- [ManualsLib](https://www.manualslib.com/) – Digital library of user manuals.
 
 
 ## Learning
